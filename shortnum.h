@@ -1,5 +1,6 @@
 /*
  * shortnum.h: Shortened numerical types for convenience
+ * This is free and unencumbered software released into the public domain
  */
 
 #ifndef SHORTNUM_H
